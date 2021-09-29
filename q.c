@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int fib(int x1,int x2,int i)
 {
   if (i==0)
